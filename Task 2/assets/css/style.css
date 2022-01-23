@@ -1,0 +1,72 @@
+.navs .navs-header {
+  margin-right: 70px;
+}
+
+.navs .navs-header a {
+  text-decoration: none;
+  color: white;
+  padding-left: 20px;
+}
+
+#content-main .content-wrapper {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #e9ecef;
+}
+
+#content-main .content-wrapper .btn {
+  background-color: orange;
+  width: 150px;
+}
+
+#content-main .content-wrapper h2 {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#content-main .content-wrapper a {
+  color: white;
+}
+
+#pages-card .cards-wrapper {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #e9ecef;
+}
+
+#pages-card .cards-wrapper .btn {
+  background-color: orange;
+  width: 150px;
+}
+
+#pages-card .cards-wrapper .card-title {
+  font-weight: bold;
+}
+
+#pages-card .cards-wrapper h2 {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.info {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.info h2,
+.info h5,
+.info p {
+  color: white;
+}
+
+.foot-info {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=style.css.map */
